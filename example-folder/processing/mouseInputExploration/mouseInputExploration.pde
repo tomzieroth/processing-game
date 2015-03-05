@@ -48,10 +48,20 @@ void draw() {
   rect(mouseX, mouseY, 50, 50);
 }
 
-void mousePressed() {
-  if (value == 0) {
-    value = 255;
-  } else {
+// I want the color to change...
+//void mousePressed() {
+  
+  void mouseMoved() {
+   
+  // this old code gave us two color options: white or black.  I want a range of grey
+  //if (value == 0) {
+  //  value = 255;
+  // } else {
+  //  value = 0;
+  //}
+  
+  value = value + 5; 
+  if (value > 255) {
     value = 0;
   }
 }

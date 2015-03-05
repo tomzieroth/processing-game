@@ -14,6 +14,15 @@
 // Click within the image to change 
 // the value of the rectangle
 
+
+/*
+If you run this basic sketch its pretty boring... it just changes the color of a
+rectangle on the small screen.  I'm going to make the size of the canvas bigger and
+see if I can get the rectangle to move around on the screen. 
+
+You should run this one to see what it does before I make any changes.
+
+*/
 int value = 0;
 
 void draw() {

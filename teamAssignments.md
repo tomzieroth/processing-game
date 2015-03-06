@@ -16,7 +16,8 @@ Austin D.<br /><br />
 
 Devin<br />
 Jarrin<br />
-Michelle<br /><br />
+Conner<br />
+Taylor<br /><br />
 
 Annette<br />
 Makayla<br />
@@ -24,13 +25,12 @@ Brelyn<br />
 Shania<br /><br />
 
 Zach<br />
-Conner<br />
-Tom<br />
-Taylor<br /><br />
+Austin A. <br />
+Tom <br />
 
 Colton<br />
 Sarina<br />
-Brandon<br />
+Michelle <br />
 Austin S.<br /><br />
 
 Stephen<br />

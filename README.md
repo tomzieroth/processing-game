@@ -5,7 +5,7 @@
 ***We will play each other's games Monday afternoon at 1pm***
 <br /> <br /> <br />
 Here is how you get started:
-  1.  Find your team in the file called *teamAssignments.md* http://bit.ly/1Mcc1cH
+  1.  Find your team in the file called ***teamAssignments.md:*** http://bit.ly/1Mcc1cH
   2.  Select a team leader
 
 Ask the team leader to do this quickly before you do anything else:

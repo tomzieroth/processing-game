@@ -3,7 +3,7 @@
 ***Today you will be collaborating with your team to create a game in Processing with a custom Arduino controller.  You must use AT LEAST two sensors in your Arduino controller, they may be of the same type (two pressure sensors for example)***  
 
 ***We will play each other's games Monday afternoon at 1pm***
-
+<br /> <br /> <br />
 Here is how you get started:
   1.  Find your team in the file called *teamAssignments.md*
   2.  Select a team leader

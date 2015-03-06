@@ -11,7 +11,7 @@ Ask the team leader to do this quickly before you do anything else:
   2.  Add your teammates as collaborators to your fork repository
   3.  Create a folder with your team's name in your fork
   4.  Create a pull request so I can pull your team folder back into the master
-  5.  ***NOTE*** Do all your work within your team folder.
+      ***NOTE*** Do all your work within your team folder.
 
 
 Now that your team leader is done with this task do the following:

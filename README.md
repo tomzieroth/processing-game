@@ -7,11 +7,12 @@
 Here is how you get started:
   1.  Find your team in the file called ***teamAssignments.md:*** http://bit.ly/1Mcc1cH
   2.  Select a team leader
+  3.  Pick a team name
 
 Ask the team leader to do this quickly before you do anything else:
   1.  Fork the repository: https://github.com/inventioneering/processing-game
-  2.  Add your teammates as collaborators to your fork repository
-  3.  Create a folder with your team's name in your fork
+  2.  Add your teammates as collaborators to your forked repository
+  3.  Create a folder named after your team.
   4.  Create a pull request so I can pull your team folder back into the master     <br /><br /> 
  ***NOTE*** Do all your work within your team folder.
 

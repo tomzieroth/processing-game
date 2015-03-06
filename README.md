@@ -1,6 +1,4 @@
-# processing-game
-
-###Today you will be collaborating with your team to create a game in Processing with a custom Arduino controller.  You must use AT LEAST two sensors in your Arduino controller, they may be of the same type (two pressure sensors for example)  
+##Today you will be collaborating with your team to create a game in Processing with a custom Arduino controller.  You must use AT LEAST two sensors in your Arduino controller, they may be of the same type (two pressure sensors for example)  
 
 ###We will play each other's games Monday afternoon at 1pm.  
 

@@ -2,8 +2,8 @@ int radius = 15;
 int direction = 1;
 int direction2 = 0;
 
-float x = 250;
-float y = 250;
+float x = 540; //Where Pac-Man starts on the X-Axis
+float y = 360; //Where Pac-Man starts on the Y-Axis
 
 ArrayList poop = new ArrayList();
 

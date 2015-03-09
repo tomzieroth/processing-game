@@ -2,15 +2,15 @@ int radius = 15;
 int direction = 1;
 int direction2 = 0;
 
-float x = 540; //Where Pac-Man starts on the X-Axis
-float y = 360; //Where Pac-Man starts on the Y-Axis
+float x = 840; //Where Pac-Man starts on the X-Axis
+float y = 525; //Where Pac-Man starts on the Y-Axis
 
 ArrayList poop = new ArrayList();
 
 void setup() {
-size(1080, 720); //size of the screen
+size(1680, 1050); //size of the screen For Mac Desktops
 ellipseMode(RADIUS); 
-for (int i=0; i<500; i++) { //Amount of dots on the screen
+for (int i=0; i<1000; i++) { //Amount of dots on the screen
 Particle P = new Particle((int)random(width), (int)random(height));
 poop.add(P);
 }

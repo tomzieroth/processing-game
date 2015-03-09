@@ -8,8 +8,8 @@ float y = 250;
 ArrayList poop = new ArrayList();
 
 void setup() {
-size(1080, 720);
-ellipseMode(RADIUS);
+size(1080, 720); //size of the screen
+ellipseMode(RADIUS); 
 for (int i=0; i<500; i++) { //Amount of dots on the screen
 Particle P = new Particle((int)random(width), (int)random(height));
 poop.add(P);
@@ -41,8 +41,8 @@ this.y = y;
 }
 void display() {
 noStroke();
-fill(226,36,36); 
-ellipse(x, y, 10, 10);
+fill(226,36,36); //dot color
+ellipse(x, y, 10, 10); //dot size and shape
 }
 }
 
@@ -76,7 +76,7 @@ void render() {
 for ( int i=-1; i < 2; i++) {
 for ( int j=-1; j < 2; j++) {
 pushMatrix();
-translate(x + (i * width), y + (j*height));
+translate(x + (i * width), y + (j*height)); //changes amount of Pac-Man
 if ( direction == -1) { 
 rotate(PI);
 }
@@ -86,9 +86,9 @@ rotate(HALF_PI);
 if ( direction2 == -1) { 
 rotate( PI + HALF_PI );
 }
-arc(0, 0, radius, radius, map((millis() % 500), 0, 500, 0, 0.52), map((millis() % 500), 0, 500, TWO_PI, 5.76) );
+arc(10, 10, radius, radius, map((millis() % 500), 0, 500, 0, 0.52), map((millis() % 500), 0, 500, TWO_PI, 5.76) );
 popMatrix();
-// mouth movement //
+// mouth movement and distance traveled
 }
 }
 }

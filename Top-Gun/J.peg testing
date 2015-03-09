@@ -1,0 +1,16 @@
+PImage tower;
+
+void setup() {
+  size(1080, 720);
+  tower = loadImage("GamingWomensTShirt_PacManCherry_Black_CU_16 copy.jpg");
+  int dimension = tower.width * tower.height;
+  tower.loadPixels();
+  for (int i = 0; i < dimension; i += 2) { 
+    tower.pixels[i] = color(0, 0, 0); 
+  } 
+  tower.updatePixels();
+}
+
+void draw() {
+  image(tower, .1, .1);
+}
